@@ -1,3 +1,5 @@
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LucaBernardis&theme=dark&count_private=true)](https://git.io/streak-stats)
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,vscode,figma)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaBernardis&count_private=true)
