@@ -1,7 +1,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,tailwind,vscode)](https://skillicons.dev)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/LucaBernardisDenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/LucaBernardisDenverCoder1&theme=dark)](https://git.io/streak-stats)
 
 <!--
 **LucaBernardis/LucaBernardis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
