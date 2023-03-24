@@ -1,4 +1,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,tailwind,vscode)](https://skillicons.dev)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/LucaBernardisDenverCoder1)](https://git.io/streak-stats)
 
 <!--
