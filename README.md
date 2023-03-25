@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,swift,mysql,cpp,java,vscode,idea,figma)](https://skillicons.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LucaBernardis&theme=dark&count_private=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=LucaBernardis&theme=ligth&count_private=true)](https://git.io/streak-stats)
 
 
 
