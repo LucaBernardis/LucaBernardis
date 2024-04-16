@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaBernardis&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=LucaBernardis&theme=ligth&count_private=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=LucaBernardis&theme=ligth&count_private=true)](https://git.io/streak-stats)
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,swift,cpp,cs,vscode,idea,figma)](https://skillicons.dev)
 
