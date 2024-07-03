@@ -4,6 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,swift,ts,angular,cs,postgres,mongo,vscode,rider)](https://skillicons.dev)
 
+![](https://komarev.com/ghpvc/?username=LucaBernardis)
 
 
 
