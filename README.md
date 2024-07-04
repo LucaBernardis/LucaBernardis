@@ -1,4 +1,5 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaBernardis&count_private=true)-->
+Hey! Here is the link to [My Portfolio](https://www.lucabernardis.it). Go take a look 👀.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LucaBernardis&theme=ligth&count_private=true)](https://git.io/streak-stats)
 
