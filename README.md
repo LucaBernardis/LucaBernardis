@@ -1,5 +1,7 @@
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaBernardis&count_private=true)-->
-### Hey! Here is the link to [My Portfolio](https://www.lucabernardis.it). Go take a look 👀.
+### Hey, I'm Luca! Here is the link to [My Portfolio](https://www.lucabernardis.it). Go take a look 👀.
+
+#### Creator of 🏔️ [Montagna Digitale FVG](https://www.montagnadigitalefvg.it)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=LucaBernardis&theme=ligth&count_private=true)](https://git.io/streak-stats)
 
